@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "WAR MACHINE: ZERO HOUR - Combined-Arms Tactical FPS / Command / Military Simulation",
+	"Modules": [
+		{ "Name": "WarMachine", "Type": "Runtime", "LoadingPhase": "Default" }
+	],
+	"Plugins": [
+		{ "Name": "AIModule", "Enabled": true },
+		{ "Name": "GameplayAbilities", "Enabled": true },
+		{ "Name": "GameplayTasks", "Enabled": true },
+		{ "Name": "EnhancedInput", "Enabled": true },
+		{ "Name": "CommonUI", "Enabled": true },
+		{ "Name": "ChaosVehicles", "Enabled": true },
+		{ "Name": "NavigationSystem", "Enabled": true },
+		{ "Name": "OnlineSubsystem", "Enabled": true },
+		{ "Name": "ReplicationGraph", "Enabled": true }
+	]
+}
