@@ -1,0 +1,19 @@
+Key,SourceString,Comment
+UI_HUD_Objective,"Objective",HUD objective label
+UI_HUD_Extraction,"Extraction Point",HUD extraction marker
+UI_Cmd_Move,"Move",Command wheel order
+UI_Cmd_Hold,"Hold Position",Command wheel order
+UI_Cmd_Suppress,"Suppress",Command wheel order
+UI_Cmd_Flank,"Flank",Command wheel order
+UI_Cmd_Retreat,"Retreat",Command wheel order
+UI_ROE_HoldFire,"Hold Fire",Rules of engagement
+UI_ROE_ReturnFire,"Return Fire Only",Rules of engagement
+UI_ROE_EngageAtWill,"Engage At Will",Rules of engagement
+UI_ROE_WeaponsFree,"Weapons Free",Rules of engagement
+UI_Theme_Dark,"Dark",Theme name
+UI_Theme_Light,"Light",Theme name
+UI_Theme_TacticalBlue,"Tactical Blue",Theme name
+UI_Theme_RedAlert,"Red Alert",Theme name
+UI_Theme_GreenCommand,"Green Command",Theme name
+UI_Theme_HighContrast,"High Contrast",Theme name
+UI_Theme_Windows11,"Windows 11",Theme name

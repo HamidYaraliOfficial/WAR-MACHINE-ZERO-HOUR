@@ -1,0 +1,19 @@
+Key,SourceString,Comment
+UI_HUD_Objective,"هدف",برچسب هدف در HUD
+UI_HUD_Extraction,"نقطه خروج",نشانگر خروج در HUD
+UI_Cmd_Move,"حرکت",دستور از چرخ فرماندهی
+UI_Cmd_Hold,"نگه‌داشتن موضع",دستور از چرخ فرماندهی
+UI_Cmd_Suppress,"سرکوب آتش",دستور از چرخ فرماندهی
+UI_Cmd_Flank,"دور زدن",دستور از چرخ فرماندهی
+UI_Cmd_Retreat,"عقب‌نشینی",دستور از چرخ فرماندهی
+UI_ROE_HoldFire,"عدم تیراندازی",قوانین درگیری
+UI_ROE_ReturnFire,"فقط پاسخ به آتش",قوانین درگیری
+UI_ROE_EngageAtWill,"درگیری آزاد",قوانین درگیری
+UI_ROE_WeaponsFree,"آزادی کامل عمل",قوانین درگیری
+UI_Theme_Dark,"تیره",نام تم
+UI_Theme_Light,"روشن",نام تم
+UI_Theme_TacticalBlue,"آبی تاکتیکی",نام تم
+UI_Theme_RedAlert,"هشدار قرمز",نام تم
+UI_Theme_GreenCommand,"فرماندهی سبز",نام تم
+UI_Theme_HighContrast,"کنتراست بالا",نام تم
+UI_Theme_Windows11,"ویندوز ۱۱",نام تم

@@ -1,0 +1,19 @@
+Key,SourceString,Comment
+UI_HUD_Objective,"目标",HUD目标标签
+UI_HUD_Extraction,"撤离点",HUD撤离标记
+UI_Cmd_Move,"移动",指挥轮盘指令
+UI_Cmd_Hold,"坚守阵地",指挥轮盘指令
+UI_Cmd_Suppress,"压制射击",指挥轮盘指令
+UI_Cmd_Flank,"侧翼包抄",指挥轮盘指令
+UI_Cmd_Retreat,"撤退",指挥轮盘指令
+UI_ROE_HoldFire,"禁止开火",交战规则
+UI_ROE_ReturnFire,"仅允许还击",交战规则
+UI_ROE_EngageAtWill,"自由交战",交战规则
+UI_ROE_WeaponsFree,"火力全开",交战规则
+UI_Theme_Dark,"深色",主题名称
+UI_Theme_Light,"浅色",主题名称
+UI_Theme_TacticalBlue,"战术蓝",主题名称
+UI_Theme_RedAlert,"红色警戒",主题名称
+UI_Theme_GreenCommand,"绿色指挥",主题名称
+UI_Theme_HighContrast,"高对比度",主题名称
+UI_Theme_Windows11,"Windows 11",主题名称
